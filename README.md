@@ -20,7 +20,7 @@ It was built as a beginner-friendly project to explore the complete machine lear
 ## 📁 Dataset
 
 - Dataset: Netflix Titles Dataset
-- Source: [Netflix on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) *(or other relevant source)*
+- Source: [Netflix on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) 
 - Format: `.csv`
 - Rows: ~8800
 
